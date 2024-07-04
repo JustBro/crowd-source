@@ -1,0 +1,31 @@
+:root {
+    /* Цвета */
+    --theme-white: rgb(255, 255, 255);
+    --theme-border: rgb(139, 139, 139);
+
+    --icon-normal: rgb(89, 86, 83);
+
+    --typography-primary: rgb(49, 49, 49);
+    --typography-secondary: rgb(111, 111, 111);
+    --typography-invert: rgb(255, 255, 255);
+    --typography-accent: rgb(245, 73, 50);
+    --typography-link: rgb(48, 87, 162);
+
+    --bg-secondary: rgb(233, 222, 212);
+    --bg-accent: rgb(245, 73, 50);
+  
+    /* Типографика */
+    --font-family-primary: 'Golos Text', sans-serif;
+    --font-family-secondary: 'Merriweather', sans-serif;
+    --font-size-base: 20px;
+    --font-weight-regular: 400;
+    --font-weight-bold: 600;
+  
+    /* Медиазапросы */
+
+    --max-width: 1366px;
+}
+
+/* background-color: var(--bg-color); */
+/* @import 'variables.css'; */
+  

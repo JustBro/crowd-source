@@ -1,0 +1,14 @@
+@import './base/variables.css';
+@import './base/icons.css';
+@import './base/reset.css';
+@import './base/fonts.css';
+
+body {
+  font-family: var(--font-family-primary);
+}
+
+.wrapper {
+  width: 100%;
+  max-width: var(--max-width);
+  margin: auto;
+}
