@@ -2,6 +2,7 @@
     /* Цвета */
     --theme-white: rgb(255, 255, 255);
     --theme-border: rgb(139, 139, 139);
+    --theme-border-dark: rgb(31, 31, 31);
 
     --icon-normal: rgb(89, 86, 83);
 
@@ -13,17 +14,28 @@
 
     --bg-secondary: rgb(233, 222, 212);
     --bg-accent: rgb(245, 73, 50);
+    --bg-dark: rgb(31, 31, 31);
   
     /* Типографика */
     --font-family-primary: 'Golos Text', sans-serif;
     --font-family-secondary: 'Merriweather', sans-serif;
     --font-size-base: 20px;
+    --font-size-l: 22px;
+    --font-size-m: 18px;
+    --font-size-s: 16px;
     --font-weight-regular: 400;
     --font-weight-bold: 600;
   
-    /* Медиазапросы */
+    /* Размеры */
+    --max-width: 1222px;
 
-    --max-width: 1366px;
+    /* Медиазапросы */
+    --media-xxl: 1440px;
+    --media-xl: 1440px;
+    --media-l: 1024px;
+    --media-m: 768px;
+    --media-s: 520px;
+    --media-xs: 375px;
 }
 
 /* background-color: var(--bg-color); */

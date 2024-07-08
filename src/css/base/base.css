@@ -1,0 +1,13 @@
+body {
+  overflow: hidden;
+  color: var(--typography-primary);
+  font-family: var(--font-family-primary);
+  font-size: var(--font-size-base);
+}
+
+.wrapper {
+  width: 100%;
+  max-width: calc(var(--max-width) + 32px);
+  margin: auto;
+  padding: 0 16px;
+}
