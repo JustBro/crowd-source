@@ -1,7 +1,7 @@
 :root {
     /* Цвета */
     --theme-white: rgb(255, 255, 255);
-    --theme-border: rgb(139, 139, 139);
+    --theme-border: rgb(208, 208, 208);
     --theme-border-dark: rgb(31, 31, 31);
 
     --icon-normal: rgb(89, 86, 83);
@@ -23,7 +23,6 @@
     --font-size-l: 22px;
     --font-size-m: 18px;
     --font-size-s: 16px;
-    --font-weight-regular: 400;
     --font-weight-bold: 600;
   
     /* Размеры */

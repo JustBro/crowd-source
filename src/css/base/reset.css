@@ -64,3 +64,7 @@ button::-moz-focus-inner {
   padding: 0;
   border: 0;
 }
+
+th {
+  font-weight: 400;
+}

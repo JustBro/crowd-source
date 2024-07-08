@@ -1,0 +1,25 @@
+.support {
+  display: flex;
+  align-items: center;
+  gap: 64px;
+  margin-top: 80px;
+  margin-bottom: 64px;
+}
+
+.support__title {
+  text-transform: uppercase;
+  font-family: var(--font-family-secondary);
+  font-size: 36px;
+}
+
+.support__accent {
+  color: var(--typography-accent);
+  font-weight: var(--font-weight-bold);
+}
+
+.support__img {
+    overflow: hidden;
+    flex-shrink: 0;
+    width: 394px;
+    border-radius: 50%;
+}

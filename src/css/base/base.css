@@ -1,5 +1,5 @@
 body {
-  overflow: hidden;
+  overflow-x: hidden;
   color: var(--typography-primary);
   font-family: var(--font-family-primary);
   font-size: var(--font-size-base);

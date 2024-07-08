@@ -9,10 +9,11 @@
 }
 
 .wrapper {
-  position: relative;
+  /* position: relative; */
 }
 
 .banner__content {
+  position: relative;
   max-width: 542px;
 }
 
@@ -62,11 +63,12 @@ a.banner__btn--filled {
 
 .banner__horse {
   position: absolute;
-  right: 320px;
+  right: -446px;
   bottom: -132px;
 }
+
 .banner__pawn {
   position: absolute;
-  right: 0;
-  bottom: 0;
+  right: -754px;
+  bottom: -114px;
 }
